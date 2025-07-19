@@ -19,3 +19,36 @@ h2
     font-style: normal;
 
 }
+
+.navbar {
+  width: auto;
+  background-color: #949393;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 15%; /* Four links of equal widths */
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #ffb6d8;
+}
+
+.navbar a.active {
+  background-color: #ff1596;
+}
+
+@media screen and (max-width: 100px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: auto;
+    text-align: center;
+  }
+}
