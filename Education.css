@@ -42,6 +42,7 @@ h1
 {
     text-align: center;
     font-family: cursive;
+    color: #c27599;
     
 }
 
@@ -53,6 +54,6 @@ h2
 h3
 {
     text-align: left;
-    color: #ccbfbf;
+    color: #757575;
     font-style: oblique;
 }
