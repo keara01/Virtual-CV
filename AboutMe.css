@@ -96,3 +96,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
     text-align: left;
   }
 }
+myLinks
+{
+  color: #ff0984;
+}
+myLinks.hover
+{
+  color:#a3a3a3;
+}
