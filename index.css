@@ -12,6 +12,12 @@ body
     font-size: 50px;                                         
 }
 
+#job
+{
+  font-family: 'Wallpaper', sans-serif;
+  text-align: center;
+}
+
 #status{
   font-family: 'Wallpaper', sans-serif;
   text-align: center;
