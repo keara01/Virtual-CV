@@ -10,6 +10,7 @@ body {
   width: 100%;
   background-color: #ccbfbf;
   overflow: auto;
+  font-family: 'Coconut Water', sans-serif;
 }
 
 .navbar a {
@@ -17,7 +18,7 @@ body {
   padding: 12px;
   color: white;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 30px;
   width: 20%; /* Four links of equal widths */
   text-align: center;
 }
@@ -63,4 +64,10 @@ ul
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color:black; 
   text-align: center;
+}
+
+#languages
+{
+  text-align: center;
+  
 }
